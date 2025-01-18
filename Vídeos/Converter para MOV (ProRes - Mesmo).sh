@@ -28,3 +28,5 @@ done
 notify-send "Deu certo!" "Os arquivos foram convertidos para MOV com sucesso!" --app-name="Transform" --icon="$HOME/.local/share/icons/custom/transform-symbolic.svg"
 
 }
+
+exit 0
